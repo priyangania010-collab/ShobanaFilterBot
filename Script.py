@@ -12,8 +12,9 @@ class script(object):
 ❖ 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ  »»  <a href=https://t.me/bitget_srilankan>ʙᴊꜱ ᴄᴏᴅᴇʀ </a>
 •──────────────────────•"""
     HELP_TXT = """
-     Hey  {} 
-Currently using free server so please Dont kill Me...
+    ❖ ʜєʟᴘ ϻᴧɪη ϻєηυ
+
+❖ ᴄʜσσsє ᴛʜє ᴄᴧᴛєɢσʀʏ ғσʀ ᴡʜɪᴄʜ ʏσυ ᴡᴧηηᴧ ɢєᴛ ʜєʟᴩ
 """
     ABOUT_TXT = """<b>
 ◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/bitget_srilankan>BJS Coder</a>
