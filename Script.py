@@ -17,10 +17,10 @@ class script(object):
 ❖ ᴄʜσσsє ᴛʜє ᴄᴧᴛєɢσʀʏ ғσʀ ᴡʜɪᴄʜ ʏσυ ᴡᴧηηᴧ ɢєᴛ ʜєʟᴩ
 """
     ABOUT_TXT = """<b>
-◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/bitget_srilankan>BJS Coder</a>
-◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
-◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
-◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
+◎ ᴄꝛєᴧᴛσꝛ: BJS Coder
+◎ ʟᴧηɢυᴧɢє: ᴩʏᴛʜση 3
+◎ ᴅᴧᴛᴧʙᴧsє: ϻσηɢσᴅʙ
+◎ ʙσᴛ sєʀᴠєʀ: ᴋσʏєʙ """
     SOURCE_TXT = """<b>NOTE:</b>
 - Ipapkorn Filter Bot  is a closed open source project. 
 - 
